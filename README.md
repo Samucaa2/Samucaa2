@@ -1,11 +1,9 @@
 Hi there ✨
 
-I'm Samuel, I'm almost graduating in technical industrial automation at ETEC in Sao Paulo State in Brazil. I love to figure out new things. I like to transform my ideas into a code or a physical project with electronic and a little bit code.
+I'm Samuel. I'm about to graduate in Industrial Automation (Technical) at ETEC in São Paulo, Brazil.  
+I love figuring out new things and turning my ideas into code or physical projects, using electronics and a little programming.  
+Right now, I'm working on improving my C++ skills and my English too.
 
-Now I'm working to learn more deeping about C++ and English as well.
-
-**• FUN FACTS:** 
-
-I don't like carrot
-
-Dragon Ball currently is my favorite anime.
+**• FUN FACTS:**  
+- I don’t like carrots  
+- Dragon Ball is currently my favorite anime
