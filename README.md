@@ -7,4 +7,5 @@ Now I'm working to learn more deeping about C++ and English as well.
 **• FUN FACTS:** 
 
 I don't like carrot
+
 Dragon Ball currently is my favorite anime.
